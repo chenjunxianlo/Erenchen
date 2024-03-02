@@ -41,7 +41,7 @@ p {
 }
 
 a {
-    color: #0066cc; /* blue */
+    color: #0066cc;
     text-decoration: none;
 }
 
@@ -54,5 +54,5 @@ a:hover {
     text-align: center;
     margin-top: 20px;
     font-size: 14px;
-    color: #777; /* light gray */
+    color: #777; 
 }
